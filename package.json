@@ -15,5 +15,8 @@
   "workspaces": [
     "src/nyumba_backend",
     "src/nyumba_frontend"
-  ]
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
 }
